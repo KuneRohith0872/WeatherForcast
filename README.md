@@ -13,9 +13,9 @@ Show a 3-day weather forecast.
 
 **Requirements**
 
-Xcode 12.0 or later
-iOS 14.0 or later
-Swift 5.0 or later
+1) Xcode 12.0 or later
+2) iOS 14.0 or later
+3) Swift 5.0 or later
 
 **Installation**
 
